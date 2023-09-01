@@ -1,4 +1,4 @@
-// Learnprogramo - programming made simple
+
 #include <fstream>
 #include <cstring>
 #include <iomanip>
